@@ -1,4 +1,4 @@
-🛠️ Course Highlights:
+🛠️ Focus on:
 
 Angular Foundations: Gain a solid understanding of Angular architecture, components, directives, and services.
 
