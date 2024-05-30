@@ -1,5 +1,5 @@
 🛠️ Focus on:
-
+1:05:00
 Angular Foundations: Gain a solid understanding of Angular architecture, components, directives, and services.
 
 Core Angular Features: Standalone components, Modules, Routing, Pipes & Services.
