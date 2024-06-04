@@ -8,3 +8,5 @@ A storefront application built with Angular, featuring product management, user 
 - User authentication
 - Shopping cart
 - Responsive design with Angular Material
+- 
+Let's persevere and keep coding! 
